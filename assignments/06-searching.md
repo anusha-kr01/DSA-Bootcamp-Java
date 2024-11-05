@@ -21,7 +21,7 @@
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) -(done)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) -(done)
 - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
-- [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
+- [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) -(not able to do)
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) -(done)
 - [Binary Search](https://leetcode.com/problems/binary-search/) -(done)
 
